@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  root "application#goodbye"
+  root "application#hello"
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Defines the root path route ("/")
